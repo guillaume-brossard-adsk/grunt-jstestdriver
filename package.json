@@ -27,7 +27,6 @@
     "node": "*"
   },
   "scripts": {
-    "install": "curl -o `pwd`/lib/jstestdriver.jar http://js-test-driver.googlecode.com/files/JsTestDriver-1.3.5.jar",
     "test": "grunt test"
   },
   "devDependencies": {
